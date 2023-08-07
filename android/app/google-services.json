@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966992941515",
+    "project_id": "eshop-cd9b0",
+    "storage_bucket": "eshop-cd9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966992941515:android:52dba681114c603042664e",
+        "android_client_info": {
+          "package_name": "com.emran.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966992941515-1aa59lat0f2a59qghp0cfgajtgucsi97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0sldLVP-YxxKfi5cPKvUB3p__vy_mNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966992941515-1aa59lat0f2a59qghp0cfgajtgucsi97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
